@@ -3,7 +3,7 @@
 ## Project: Term Project
 ## Parallel-Matrix-Multiplication
 
-his project requires **C** and the following C libraries installed:
+This project requires **C** and the following C libraries installed:
 
 - [OpenMP](https://www.openmp.org/resources/openmp-compilers-tools/)
 
